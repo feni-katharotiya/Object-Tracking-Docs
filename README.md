@@ -1,6 +1,5 @@
 # Object-Tracking-Docs
 A comprehensive guide to object tracking techniques and OpenCV compilation for CPU and GPU setups. Includes insights into various algorithms like KCF, BOOSTING, MIL, and implementation steps for real-time applications.
-# Object-Tracking Docs
 
 This repository provides a detailed overview of object-tracking algorithms and step-by-step instructions to compile OpenCV with GPU and CPU support. Ideal for developers, researchers, and enthusiasts in the field of computer vision.
 
